@@ -1,0 +1,13 @@
+# Siri Spotify Voice Control - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Spotify API Library
+spotipy>=2.22.1
+
+# OAuth2 authentication (included with spotipy)
+# requests>=2.28.0  # Auto-installed with spotipy
+
+# Standard library modules used (no installation needed):
+# - webbrowser  
+# - sys
+# - subprocess
